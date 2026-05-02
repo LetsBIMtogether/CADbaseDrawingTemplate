@@ -1,0 +1,9 @@
+# Ignore Windows thumbnail cache files
+**/Thumbs.db
+
+# Misc
+**/.claude/
+
+# Ignore CAD backup files
+**/*.bak
+
