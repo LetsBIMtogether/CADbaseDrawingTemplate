@@ -2,9 +2,11 @@
 
 <img src="GitHub%20Images/ADV-TEMPLATE_1_CAD.png" width="600"/>
 
-~ ~ ~ IN PROGRESS ~ ~ ~ COME BACK SOON FOR DOWNLOAD :D ~ ~ ~
+[Click here to download CAD Base Drawing Template](https://github.com/LetsBIMtogether/CADbaseDrawingTemplate/raw/main/AG-TEMPLATE-v1-0.dwg)
 
 A starting-point base drawing template for AutoCAD LT, but can be used in all versions of AutoCAD.
+
+🎥 [Watch a YouTube demo](https://www.youtube.com/watch?v=0a4gnKEjDPg)
 
 ## Template Notes
 
